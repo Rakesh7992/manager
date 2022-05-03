@@ -8,8 +8,7 @@ public class test1 {
 		int y=100;
 		int z=x*y;
 		System.out.println(z);
-                driver.close();
-
 	}
+	
 
 }
